@@ -3,7 +3,7 @@
 
 ![Warning1998's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Warning1998&show_icons=true&count_private=true&theme=gotham)
 
-https://github.com/Warning1998/Warning1998/blob/output/github-snake.gif
+![Warning1998's Most used languages](https://github.com/Warning1998/Warning1998/blob/output/github-snake.gif?raw=true)
 <!--
 **Warning1998/Warning1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
