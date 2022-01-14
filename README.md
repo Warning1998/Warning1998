@@ -1,8 +1,8 @@
 ### Hi there 👋
 ![Warning1998's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Warning1998&show_icons=true&count_private=true&theme=gotham)
 
-[![Warning1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warning1998)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Warning1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warning1998&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Metrics](https://metrics.lecoq.io/Warning1998?template=classic&config.timezone=Asia%2FShanghai)
 <!--
