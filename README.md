@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Warning1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warning1998&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-https://stats.justsong.cn/api/zhihu?username=excited-vczh
+[![Warning1998's GitHub stats](https://stats.justsong.cn/api/zhihu?username=excited-vczh)
 
 ![Warning1998's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Warning1998&show_icons=true&count_private=true&theme=gotham)
 
