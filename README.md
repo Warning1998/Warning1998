@@ -4,7 +4,7 @@
 ****
 ### My GitHub Contributions⚡⚡
 ![Warning1998's Most used languages](https://github.com/Warning1998/Warning1998/blob/main/assets/github-contribution-grid-snake.svg)
-<!--
+
 **Warning1998/Warning1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<!--
 ![Metrics](https://metrics.lecoq.io/Warning1998?template=classic&config.timezone=Asia%2FShanghai)
 -->
