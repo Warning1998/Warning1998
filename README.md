@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Metrics](https://metrics.lecoq.io/Warning1998?template=classic&config.timezone=Asia%2FShanghai)
 
 <!--
 **Warning1998/Warning1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
