@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Warning1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warning1998&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/Warning1998?template=classic&config.timezone=Asia%2FShanghai)
+
 
 ![Warning1998's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Warning1998&show_icons=true&count_private=true&theme=gotham)
 
@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Metrics](https://metrics.lecoq.io/Warning1998?template=classic&config.timezone=Asia%2FShanghai)
 -->
